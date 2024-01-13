@@ -1,16 +1,19 @@
-### Hi there 👋
+## Bem-vindo
+### Informações pessoais
+<ul>
+  <li>Eu sou Victor
+  <li>Estudante de Ciencia da computação-IFRP</li>
+  <li>telefone:(32) 998535610</li>
+</ul>
 
-<!--
-**victorlak/victorlak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Habilidades
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
