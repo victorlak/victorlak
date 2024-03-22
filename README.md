@@ -2,7 +2,7 @@
 ### Informações pessoais
 <ul>
   <li>Eu sou Victor
-  <li>Estudante de Ciencia da computação-IFRP</li>
+  <li>Estudante de Ciência da computação-IFRP</li>
   <li>telefone:(32) 998535610</li>
   <li>Portifílio: https://portif-lio-kappa-five.vercel.app/ </li>
 </ul>
