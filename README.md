@@ -1,7 +1,7 @@
 ## Bem-vindo
 ### Informações pessoais
 
-</img>![WhatsApp Image 2024-03-22 at 14 38 11](https://github.com/victorlak/victorlak/assets/133174073/3e16d85b-e8f8-4c50-b1a4-03e93aef0aa2)
+
 
 <ul>
   <li>Eu sou Victor
