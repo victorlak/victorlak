@@ -8,7 +8,7 @@
       <li>Eu sou Victor
       <li>Estudante de Ciência da computação-IFRP</li>
       <li>telefone:(32) 998535610</li>
-      <li>Portifílio: https://portif-lio-kappa-five.vercel.app/ </li>
+      <li>Portifólio: https://portif-lio-kappa-five.vercel.app/ </li>
   </ul>
 
 ## Habilidades
